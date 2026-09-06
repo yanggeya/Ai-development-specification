@@ -1,3 +1,3 @@
 # Ai-development-specification
 Ai development specification
-中文./README.zh‑CN.md
+[简体中文](./README.zh‑CN.md)
